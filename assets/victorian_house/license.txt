@@ -1,0 +1,11 @@
+Model Information:
+* title:	Victorian House
+* source:	https://sketchfab.com/3d-models/victorian-house-15f33b45c1f94feebebf9666c16efa82
+* author:	CristianMFQ (https://sketchfab.com/cristianFQ)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Victorian House" (https://sketchfab.com/3d-models/victorian-house-15f33b45c1f94feebebf9666c16efa82) by CristianMFQ (https://sketchfab.com/cristianFQ) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
